@@ -54690,7 +54690,7 @@ A.Uh.prototype={
 K(a){var s,r=null,q=t.z,p=A.aLm(r,r,r,B.AK,B.AM,B.a6,r,!1,r,!0,r,"/not-found",!0,new A.alg(),r,r,r,!0,!0,r,B.M0,r,r,q)
 q=A.a([A.aLm(r,r,r,B.AK,B.AM,B.a6,r,!1,r,!0,r,"/",!0,new A.alh(),r,r,r,!0,!0,r,r,r,r,q)],t.RT)
 s=$.nd()
-return new A.Ey("/auth","Dashboard",A.atA(r,new A.ur(A.ak([B.b2,new A.E1(),B.bo,new A.E1()],t.LH,t.ne)),B.ps,s,r),!1,new A.ali(r),q,p,r)}}
+return new A.Ey("/","Dashboard",A.atA(r,new A.ur(A.ak([B.b2,new A.E1(),B.bo,new A.E1()],t.LH,t.ne)),B.ps,s,r),!1,new A.ali(r),q,p,r)}}
 A.alg.prototype={
 $0(){return new A.yI(null)},
 $S:491}
