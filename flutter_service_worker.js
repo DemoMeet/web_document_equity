@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "abcd668b50c9d624db970d6453c5cc8c",
+const RESOURCES = {"404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
+"assets/AssetManifest.bin": "abcd668b50c9d624db970d6453c5cc8c",
 "assets/AssetManifest.json": "e8090f1af672da6f3e995b3876d974e0",
 "assets/assets/d1.png": "5e7cc9776f33f315309e17bfdff3a4fa",
 "assets/assets/font/Nunito/Nunito-Bold.ttf": "91019ffb3b1df640e444b34e5a73dfc3",
@@ -42,10 +43,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "abcd668b50c9d624db970d6453c5cc8c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d7687d4f60a867aea299d0b39f5a1841",
-"/": "d7687d4f60a867aea299d0b39f5a1841",
+"index.html": "abd49f65604cc27a8f1f0a9b59ab9b92",
+"/": "abd49f65604cc27a8f1f0a9b59ab9b92",
 "logo_mini.png": "01d214748c1e5feb07e63fba31a256ab",
-"main.dart.js": "00ae0a113f4247fd9c63b3f7e077788c",
+"main.dart.js": "a4e7035a89ace73f266642a087503251",
 "manifest.json": "7a1f1aa1f88eeac5821d616342669213",
 "version.json": "325b3547edec644e38b76f8638bd785b"};
 // The application shell files that are downloaded before a service worker can
