@@ -14,7 +14,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "abcd668b50c9d624db970d6453c5cc8c
 "assets/assets/font/SutonnyMJ/SutonnyMJ-Regular.ttf": "95c05976f7c1d9660b6c591fdc14bbfd",
 "assets/assets/icons/icon_down.png": "145d100f991003e64047dad73de6c8b4",
 "assets/assets/icons/icon_up.png": "f50187cc64a8b1d7a031e867d1d9774f",
-"assets/assets/icons/logo.png": "9b832ddf3fadd356c301183efb1137b7",
+"assets/assets/icons/logo.png": "1efc41f9ca6440aebfbfd2acfccf1b47",
 "assets/assets/icons/logo_mini.png": "01d214748c1e5feb07e63fba31a256ab",
 "assets/assets/side_bar/basil_home-outline.png": "0393283d1db9e02d774868f5ee93ac00",
 "assets/assets/side_bar/Document.png": "313545ef9143a20a2f5ff9dd44eb4612",
@@ -42,10 +42,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "abcd668b50c9d624db970d6453c5cc8c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a62138bf56bc6fc825edf7391a7c6324",
-"/": "a62138bf56bc6fc825edf7391a7c6324",
+"index.html": "029ba28109eb706a0a11d9aa15baa276",
+"/": "029ba28109eb706a0a11d9aa15baa276",
 "logo_mini.png": "01d214748c1e5feb07e63fba31a256ab",
-"main.dart.js": "2fbc7a3c53959ee5a0079bf0bbc6e49a",
+"main.dart.js": "0fe69997dc6d00a14c65cb2c5a8cbb94",
 "manifest.json": "7a1f1aa1f88eeac5821d616342669213",
 "version.json": "325b3547edec644e38b76f8638bd785b"};
 // The application shell files that are downloaded before a service worker can
